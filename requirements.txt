@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+scipy
+imblearn
+prettytable
+xgboost
+matplotlib
+seaborn
